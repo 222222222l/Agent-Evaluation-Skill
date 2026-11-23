@@ -1,3 +1,5 @@
+> **2026-11-23 开发计划增补：** [组织级协作评测规范](agent-evaluation/references/swarm-org-evaluation-2026-11-23.md)。增加协调成本、失联恢复、独立验收和失败分母，避免多 Agent 只优化局部文本分数。新增里程碑属于待开发项，原有签收状态不变。
+
 # Agent 评估 Skill
 
 [English](README.en.md)
